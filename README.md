@@ -15,7 +15,7 @@ This ROS Package can be used to control the movement of a bot inside the turtles
     ```bash
     mkdir -p ros_ws/src 
     cd ros_ws/src
-    git clone https://github.com/topguns837/ros_session.git
+    https://github.com/sauravranjann/assignment_turtle/.git
     ```
 
 - Compile the code and source the workspace
@@ -42,5 +42,5 @@ This ROS Package can be used to control the movement of a bot inside the turtles
 - In terminal 3
 
     ```bash
-    rosrun ros_session move_straight.py
+     rosrun turtle_move turtle_rectangle.py
     ```# assignment_turtle
